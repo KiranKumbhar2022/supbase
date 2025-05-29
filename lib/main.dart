@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
 
       ),
-      home:  AuthGate(),
+      home:  LoginScreen(),
       //Hello Anish
       //hello im kk
       // from Any Life
